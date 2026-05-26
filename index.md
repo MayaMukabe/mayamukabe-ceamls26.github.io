@@ -14,7 +14,7 @@ quick_facts:
   - "🚀 I like Reading"
 
 linkedin: https://www.linkedin.com/in/maya-mukabe
-image: /assets/images/profile.svg
+image: assets/images/profile.jpeg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
