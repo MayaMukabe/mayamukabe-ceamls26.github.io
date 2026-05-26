@@ -4,10 +4,10 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
-  image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  name: Maya Mukabe
+  role: Junior, Computer Information Systems
+  image: assets/images/profile.jpeg
+  linkedin: https://www.linkedin.com/in/maya-mukabe
   bio: |
     Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
@@ -20,13 +20,13 @@ about:
 
   hobbies:
     - icon: 🎨
-      title: Digital Art
+      title: Reading
       description: I make small illustrations and pixel art in my spare time.
     - icon: 🚲
-      title: Biking
+      title: Playing Volleyball
       description: Weekend trail rides are how I reset.
     - icon: 📚
-      title: Reading
+      title: Travelling
       description: Sci-fi novels and design essays — both equally inspiring.
 
   gallery:
