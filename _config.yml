@@ -5,10 +5,10 @@
 
 # ----- Identity (shown in SEO + browser tab) -----
 title: Maya Mukabe                              # <- your name
-author: Your Name Here                             # <- your name (shown as post byline)
+author: Maya Mukaabe                             # <- your name (shown as post byline)
 description: My CEAMLS SAIRI Summer Research Site  # <- short site tagline
 email:                                             # <- (optional) contact email for SEO
-url: https://your-username.github.io               # <- your final site URL (canonical SEO links)
+url: https://github.com/MayaMukabe/mayamukabe-ceamls26.github.io               # <- your final site URL (canonical SEO links)
 lang: en-US
 
 # ----- Branding (program-wide; rarely changes) -----
@@ -24,7 +24,7 @@ logo_on_dark:  /assets/images/logo-on-dark.png
 # ----- Theme selection -----
 # Choose one of: minimal | premium | fresh | signal
 # See README.md for screenshots of each theme.
-theme_name: minimal
+theme_name: signal
 
 # ----- Site behavior -----
 show_downloads: false
