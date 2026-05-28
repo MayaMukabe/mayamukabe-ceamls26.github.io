@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Amara Eze
   title: Doctoral Student, Industrial and Computational Mathematics
-  image: /assets/images/graduate-student-mentor.svg
+  image: /assets/images/Amara Eze.jpg
   website: 
   bio: |
     Amara Eze is a doctoral student in Industrial and Computational Mathematics
@@ -25,7 +25,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Olaniyi Iyiola
   title: Faculty Mentor, Department of Mathematics
-  image: /assets/images/faculty-mentor.svg
+  image: /assets/images/Faculty Memtor.jpg
   website: 
   bio: |
     Dr. Olaniyi Iyiola is a faculty researcher in the Department of Mathematics
