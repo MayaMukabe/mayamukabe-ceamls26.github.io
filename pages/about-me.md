@@ -5,11 +5,11 @@ permalink: /about-me.html
 
 about:
   name: Maya Mukabe
-  role: Junior, Computer Information Systems
+  role: Computer Information Systems Student | AI Research Scholar
   image: assets/images/profile.jpeg
   linkedin: https://www.linkedin.com/in/maya-mukabe
   bio: |
-     Hi! I'm Maya, a Computer Information Systems student and researcher in the CEAMLS SAIRI Summer AI Research Institute at Morgan State University.
+    Hi! I'm Maya, a Computer Information Systems student and researcher in the CEAMLS SAIRI Summer AI Research Institute at Morgan State University.
 
     My interests are centered around artificial intelligence, data analytics, machine learning,
     and trustworthy AI systems. I am especially passionate about understanding how data quality,
@@ -24,14 +24,14 @@ about:
     and human impact in mind.
 
   hobbies:
-    - icon: 🎨
+    - icon: 📚
       title: Reading
       description: I enjoy exploring books that expand my perspective on technology, leadership, and personal growth.
-    - icon: 🚲
-      title: Playing Volleyball
+    - icon: 🏐
+      title: Volleyball
       description: Playing volleyball helps me stay active, competitive, and connected with others.
-    - icon: 📚
-      title: Travelling
+    - icon: ✈️
+      title: Traveling
       description: I love discovering new places, cultures, and experiences that inspire creativity and growth.
 
   gallery:
