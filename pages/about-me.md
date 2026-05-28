@@ -9,31 +9,36 @@ about:
   image: assets/images/profile.jpeg
   linkedin: https://www.linkedin.com/in/maya-mukabe
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+     Hi! I'm Maya, a Computer Information Systems student and researcher in the CEAMLS SAIRI Summer AI Research Institute at Morgan State University.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    My interests are centered around artificial intelligence, data analytics, machine learning,
+    and trustworthy AI systems. I am especially passionate about understanding how data quality,
+    fairness, and transparency shape the effectiveness of AI technologies in the real world.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    This summer, I am contributing to research focused on predicting respiratory health risks
+    using environmental data and machine learning models. Through this work, I hope to explore
+    how AI can be used responsibly to create meaningful impact in healthcare and communities.
+
+    Beyond technology, I enjoy reading, traveling, volleyball, and exploring creative design.
+    I believe innovation becomes most powerful when it is built with curiosity, integrity,
+    and human impact in mind.
 
   hobbies:
     - icon: 🎨
       title: Reading
-      description: I make small illustrations and pixel art in my spare time.
+      description: I enjoy exploring books that expand my perspective on technology, leadership, and personal growth.
     - icon: 🚲
       title: Playing Volleyball
-      description: Weekend trail rides are how I reset.
+      description: Playing volleyball helps me stay active, competitive, and connected with others.
     - icon: 📚
       title: Travelling
-      description: Sci-fi novels and design essays — both equally inspiring.
+      description: I love discovering new places, cultures, and experiences that inspire creativity and growth.
 
   gallery:
     - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
+      caption: Exploring creativity through research and design.
     - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
+      caption: Building projects and growing through AI research.
     - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+      caption: Creating meaningful connections throughout the journey.
 ---
