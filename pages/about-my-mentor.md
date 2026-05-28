@@ -4,28 +4,40 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Alex Morgan
-  title: PhD Candidate, Computer Engineering
+  name: Amara Eze
+  title: Doctoral Student, Industrial and Computational Mathematics
   image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  website: 
   bio: |
-    Alex is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
+    Amara Eze is a doctoral student in Industrial and Computational Mathematics
+    at Morgan State University. Her research focuses on optimization techniques
+    and machine learning applications in healthcare and environmental analysis.
 
-    Outside of research, Alex organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+    Throughout the SAIRI program, she has guided our team in understanding
+    machine learning models such as Support Vector Machines, Extreme Learning
+    Machines, and Random Forests for respiratory disease risk prediction.
+    Her mentorship has helped strengthen my understanding of data analysis,
+    model evaluation, and the role optimization plays in AI systems.
+
+    Beyond research, Amara creates a collaborative and supportive learning
+    environment that encourages curiosity, critical thinking, and growth.
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  title: Associate Professor, School of Engineering
+  name: Dr. Olaniyi Iyiola
+  title: Faculty Mentor, Department of Mathematics
   image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  website: 
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
-    accessibility. Their guidance has helped me sharpen my research questions and
-    think more carefully about real-world impact.
+    Dr. Olaniyi Iyiola is a faculty researcher in the Department of Mathematics
+    at Morgan State University whose work focuses on optimization, machine learning,
+    and computational approaches to healthcare and environmental challenges.
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
+    Under his leadership, our research project explores how optimization-driven
+    machine learning models can be used to predict respiratory health risks
+    using urban environmental data from Baltimore. His guidance has expanded
+    my understanding of how AI, mathematics, and data science can work together
+    to address real world public health problems.
+
+    Dr. Iyiola’s mentorship emphasizes research integrity, analytical thinking,
+    and the importance of developing AI systems that are both effective and impactful.
 ---
