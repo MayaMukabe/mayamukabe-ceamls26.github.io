@@ -35,10 +35,10 @@ about:
       description: I love discovering new places, cultures, and experiences that inspire creativity and growth.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
+    - image: /assets/images/creative.jpg
       caption: Exploring creativity through research and design.
-    - image: /assets/images/gallery-2.svg
+    - image: /assets/images/python coding.jpg
       caption: Building projects and growing through AI research.
-    - image: /assets/images/gallery-3.svg
+    - image: /assets/images/network.jpg
       caption: Creating meaningful connections throughout the journey.
 ---
