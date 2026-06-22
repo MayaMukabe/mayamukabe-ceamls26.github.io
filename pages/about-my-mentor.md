@@ -7,7 +7,7 @@ graduate_mentor:
   name: Amara Eze
   title: Doctoral Student, Industrial and Computational Mathematics
   image: /assets/images/Amara Eze.jpg
-  website: 
+  website: https://www.linkedin.com/in/amara-eze-569b59259/
   bio: |
     Amara Eze is a doctoral student in Industrial and Computational Mathematics
     at Morgan State University. Her research focuses on optimization techniques
@@ -26,7 +26,7 @@ faculty_mentor:
   name: Dr. Olaniyi Iyiola
   title: Faculty Mentor, Department of Mathematics
   image: /assets/images/Faculty Memtor.jpg
-  website: 
+  website: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
   bio: |
     Dr. Olaniyi Iyiola is a faculty researcher in the Department of Mathematics
     at Morgan State University whose work focuses on optimization, machine learning,
