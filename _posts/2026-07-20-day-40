@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Day 40 — Refining the Models and Preparing for the Final Presentation"
+date: 2026-07-20
+permalink: /day40.html
+tags: ["Machine Learning Optimization, Research Presentation"]
+
+what_i_learned: |
+  Today marked another important step toward the conclusion of my research internship. I shifted my focus to preparing the final presentation that I will deliver at the symposium. I began working on the methodology section of my slide deck, making sure it clearly communicated the research process from data collection to model evaluation without overwhelming the audience. One thing I have learned throughout this experience is that presenting technical work is just as important as conducting the research itself. The ability to simplify complex ideas into visuals and concise explanations is a valuable skill that I continue to develop.
+  
+  After working on the presentation, I met with my mentor to review the machine learning models. She provided valuable feedback on ways to further strengthen the implementation before the final evaluation. I spent the remainder of the day incorporating those suggestions into my code. For the Random Forest model, I expanded the initialization by introducing additional hyperparameters to improve the model configuration and explore whether they could produce better predictive performance. I also modified the activation function used within the Extreme Learning Machine (ELM) model and carefully documented every change so that the methodology and experimental setup remained accurate and reproducible in my research paper.
+  
+  Beyond simply implementing the changes, I took time to understand why each modification was being made. Rather than treating hyperparameter tuning as trial and error, I wanted to understand how different parameters influence learning behavior, model complexity, and prediction performance. This helped me appreciate that model optimization is an iterative process where small adjustments can have meaningful effects on the final results.
+  
+  I also updated my research documentation to reflect the revised model configurations and prepared to rerun the experiments using the updated settings. Maintaining detailed records has become an essential part of my workflow because it allows me to trace improvements, compare results, and justify the decisions made throughout the research process.
+  
+blockers: |
+  Today's biggest challenge was balancing presentation preparation with continued model development. While I wanted to make significant progress on the presentation slides, I also needed to ensure that the machine learning models accurately reflected the latest improvements from my mentor's feedback. It required careful time management and attention to detail to avoid overlooking changes in either the presentation or the research documentation.
+  
+reflection: |
+  Today reminded me that research rarely follows a perfectly linear path. Even near the end of a project, there are always opportunities to refine models, improve documentation, and strengthen the overall quality of the work. I am grateful for the feedback from my mentor because it continues to push me toward producing more rigorous and thoughtful research. As the symposium approaches, I feel more confident in both my understanding of the project and my ability to communicate it effectively. Every revision brings the project one step closer to its final form, and I am excited to see how all the pieces come together during the final presentation.
+---
